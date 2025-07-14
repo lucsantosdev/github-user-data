@@ -21,6 +21,7 @@ This is a practical project using essential concepts of the "Progressive JavaScr
 | Vue JS         | Frontend Framework     | 
 | JavaScript         | Development Language      |  
 | GitHub          | REST API     |  
+| Vercel       | Deployment    |  
 
 ---
 
